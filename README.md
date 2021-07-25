@@ -1,2 +1,2 @@
-# http://jessicagsanttos.github.io
-My personal website
+# jessi-website
+ Repositório de um portfolio profissional criado em html, css e javascript.
